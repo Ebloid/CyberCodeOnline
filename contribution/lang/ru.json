@@ -132,7 +132,7 @@
  	 	 	 	"eng": "Shangri-La Market Street"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[Торговый рынок игроков]\r\n        Знаменитая торговая площаль в Шангри-Ла. Площадь заполнена прилавками.\r\n        Возможно, здесь ты найдешь то, что тебе нужно или сможешь сам продать что-либо.",
+ 	 	 	 	"trans": "[Торговый рынок игроков]\r\n        Знаменитая торговая площадь в Шангри-Ла. Площадь заполнена прилавками.\r\n        Возможно, здесь ты найдешь то, что тебе нужно или сможешь сам продать что-либо.",
  	 	 	 	"eng": "[Player Market]\r\n        The famous market street in Shangri-La. Loads of market stalls fill the street.\r\n        Maybe you can find something you need or set up shop yourself."
  	 	 	},
  	 	 	"toMainHub": {
@@ -212,7 +212,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"segmentStationName"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Сразись здесь с противником 1 уровня",
+ 	 	 	 	 	"trans": "Сразись с противником 1 уровня",
  	 	 	 	 	"eng": "Continue here to fight level 1 enemy"
  	 	 	 	},
  	 	 	 	"description": {
@@ -299,7 +299,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Привет! Сделай пожертвование, чтобы получить косметические киберимпланты и поддержать игры Free-to-Win, такие как эта!"
+ 	 	 	 	 	"Привет! Сделай пожертвование, чтобы получить косметические киберимпланты и поддержать Free-to-Win игры, такие как эта!"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hi! Donate to get cosmetic perks and to help support Free-to-Win games like this one!"
@@ -312,7 +312,7 @@
  	 	 	 	"eng": "Molecular 3d Printer"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Используй чертежи, чтобы напечатать новую экипировку",
+ 	 	 	 	"trans": "Используй кэш, чтобы напечатать новую экипировку",
  	 	 	 	"eng": "You can use your Cache to print new equipment here"
  	 	 	},
  	 	 	"defaultLines": {
@@ -344,11 +344,11 @@
  	 	 	 	"eng": "Terminal"
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Чтобы перейти к следующей области, тебе нужно получить фрагменты секретного ключа из подземелий \r\n        и запустить Терминал, чтобы взломать ключ к следующей локации",
+ 	 	 	 	"trans": "Чтобы перейти к следующей области, тебе нужно получить фрагменты секретного ключа из подземелий \r\n        и использовать Терминал, чтобы подобрать ключ к следующей локации",
  	 	 	 	"eng": "To progress to the next area, you need to get Secret Key Fragments from dungeons, \r\n        and use the Terminal to Brute Force the key for next area"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Твой слегка устаревший компьютер, если немного потерпеть, может сделать свою работу",
+ 	 	 	 	"trans": "Твой компьютер, хоть он и немного устарел но если немного подождать, он сделает свою работу",
  	 	 	 	"eng": "Your personal computer, although it's a little outdated, it can get the job done with enough patience"
  	 	 	},
  	 	 	"canAccessError": {
@@ -371,7 +371,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Эй, парень... Иди посмотри на мои товары"
+ 	 	 	 	 	"Эй, парень... посмотри на мои товары"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid... Come check out my goods."
@@ -424,7 +424,7 @@
  	 	 	 	"eng": "Lee's Trading Post"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Семейный магазин, позволяющий тебе торговать тем, что ты нашел во время сбора мусора.",
+ 	 	 	 	"trans": "Семейный магазин, позволяющий тебе торговать тем, что нашлось во время сбора мусора.",
  	 	 	 	"eng": "A family run trading shop that lets you trade with what they have found while scavenging"
  	 	 	},
  	 	 	"canAccessError": {
@@ -446,7 +446,7 @@
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Полностью автоматизированный переработчик, способный перерабатывать предметы в металлолом",
+ 	 	 	 	"trans": "Полностью автоматизированный переработчик, способный разобрать предметы на запчасти",
  	 	 	 	"eng": "Fully automated recycler, capable of recycling items to their basic scrap form"
  	 	 	}
  	 	}
@@ -458,17 +458,17 @@
  	 	 	 	"eng": "work in printing factory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Повысь свой уровень печати, не растрачиваясь на металлолом. Это поможет увеличить уровень напечатанной тобой экипировки.",
+ 	 	 	 	"trans": "Повысь свой уровень печати, не растрачиваясь на металлолом. Это поможет увеличить уровень напечатанных тобой предметов.",
  	 	 	 	"eng": "Improve Printing Rank without sacrificing tech scrap, this may help to increase the level of your prints."
  	 	 	}
  	 	},
  	 	"increaseMedical": {
  	 	 	"name": {
- 	 	 	 	"trans": "Взлом клиники модификации тела",
+ 	 	 	 	"trans": "Взлом клиники модификаций тела",
  	 	 	 	"eng": "Hack a Body Mod Clinic"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Скачивай данные из местной клиники модификации тела, чтобы создавать медицинских ботов и дронов более высокого уровня.",
+ 	 	 	 	"trans": "Скачивай данные из местной клиники модификаций тела, чтобы создавать медицинских ботов и дронов более высокого уровня.",
  	 	 	 	"eng": "Download useful data from a local body mod clinic to craft higher quality medical bots and drones."
  	 	 	}
  	 	},
@@ -494,7 +494,7 @@
  	 	},
  	 	"reverseMining": {
  	 	 	"name": {
- 	 	 	 	"trans": "Майнинг криптовалюты",
+ 	 	 	 	"trans": "Начать майнинг криптовалюты",
  	 	 	 	"eng": "initiate crypto mining"
  	 	 	},
  	 	 	"description": {
@@ -508,11 +508,11 @@
  	 	 	 	"eng": "Deploy farm bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "[AFK Фарм опыта]\r\n        Отправь ИИ в подземелье за тебя. Это израсходует Ядро ИИ, обычно одно ядро справляется только с одной зачисткой подземелья.",
+ 	 	 	 	"trans": "[AFK Фарм опыта]\r\n        Отправляет ИИ в подземелье за тебя. Это израсходует Ядро ИИ, обычно одно ядро справляется только с одной зачисткой подземелья.",
  	 	 	 	"eng": "[AFK Exp Farm]\r\n        Deploys an AI to dungeon for you. This will use up an AI Core, they usually only just manage the one trip."
  	 	 	},
  	 	 	"tut": {
- 	 	 	 	"trans": "Используй своё Ядро ИИ для автоматического фарма врагов, пока ты АФК",
+ 	 	 	 	"trans": "Используй своё Ядро ИИ для автоматического фарма врагов, пока ты в AFK",
  	 	 	 	"eng": "You can use your AI Core to Auto-Farm enemies while you AFK"
  	 	 	}
  	 	},
@@ -564,7 +564,7 @@
  	 	},
  	 	"gambling1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Играть в игру MEGA Pachinko",
+ 	 	 	 	"trans": "Играть в MEGA Pachinko",
  	 	 	 	"eng": "Play MEGA Pachinko Game"
  	 	 	},
  	 	 	"description": {
@@ -574,7 +574,7 @@
  	 	},
  	 	"topClanExclusive": {
  	 	 	"name": {
- 	 	 	 	"trans": "Сбор платежей за защиту",
+ 	 	 	 	"trans": "Сбор налога за защиту",
  	 	 	 	"eng": "Collect Protection Fees"
  	 	 	},
  	 	 	"description": {
@@ -588,7 +588,7 @@
  	 	 	 	"eng": "Hack SL Data Fortress"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Начните кибератаку на базу данных Шангри-Ла \r\n         Если атака пройдет успешно, через взломанную базу данных можно будет передавать сигналы всем кибернетически подключенным пользователям",
+ 	 	 	 	"trans": "Начните совместную кибератаку на базу данных Шангри-Ла \r\n         Если атака пройдет успешно, через взломанную базу данных можно будет передавать сигналы всем кибернетически подключенным пользователям",
  	 	 	 	"eng": "Launch a collaborative attack in cyberspace targeting the Shangri-La Data Fortress.\r\nIf the attack succeeds, it’s possible to force the Data Fortress to transmit exploits to all cybernetically connected users."
  	 	 	}
  	 	}
@@ -669,7 +669,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"levelName"
  	 	 	 	],
- 	 	 	 	"trans": "Фрагмент, содержащий чью-то память и опыт. При использовании будет получено  ${levelName} опыта",
+ 	 	 	 	"trans": "Фрагмент, содержащий чью-то память и опыт. При использовании можно получить ${levelName} опыта",
  	 	 	 	"eng": "A shard that contains someone's memory and experience. If used you may gain ${levelName} experience from this"
  	 	 	}
  	 	},
@@ -686,7 +686,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"segmentDisplayName"
  	 	 	 	],
- 	 	 	 	"trans": "Фрагмент секретного ключа. Используется для взлома секретного ключа.\r\n                                Используй терминал в центре города, чтобы взломать секретный ключ ${segmentDisplayName}.\r\n                                Ты можешь получить каждый из 3 необходимых фрагментов ключа в соответствующих подземельях (как в обычном, так и в сложном),\r\n                                После получения всех трех фрагментов, используй терминал для взлома ключа к следующей локации",
+ 	 	 	 	"trans": "Фрагмент секретного ключа. Используется для подбора секретного ключа.\r\n                                Используй терминал в центре города, чтобы подобрать секретный ключ ${segmentDisplayName}.\r\n                                Ты можешь получить каждый из 3 необходимых фрагментов ключа в соответствующих подземельях (как в обычном, так и в сложном),\r\n                                После получения всех трех фрагментов, используй терминал для подбора ключа к следующей локации",
  	 	 	 	"eng": "A secret key Fragment used to brute-force a secret key.\r\n                                Use the Terminal at city center [Hub] to brute-force a ${segmentDisplayName} secret key.\r\n                                You can acquire each of the 3 required keys in each dungeon (both normal or challenge),\r\n                                when you acquired 3 keys, you may use Terminal to brute-force (Craft) a key to the next area"
  	 	 	}
  	 	},
@@ -696,14 +696,14 @@
  	 	 	 	 	"tierName",
  	 	 	 	 	"typeName"
  	 	 	 	],
- 	 	 	 	"trans": "Чертеж ${typeName} ${tierName}",
+ 	 	 	 	"trans": "кэш ${typeName} ${tierName}",cache
  	 	 	 	"eng": "${tierName} ${typeName} cache"
  	 	 	},
  	 	 	"description": {
  	 	 	 	"vars": [
  	 	 	 	 	"typeName"
  	 	 	 	],
- 	 	 	 	"trans": "Чертеж ${typeName} содержит информацию, необходимую для молекулярной 3D печати данного предмета, \r\n                    Ты можешь создать ${typeName} с помощью [Молекулярного 3D Принтера] в Центре города.\r\n                    \r\n                    Совет: Уровень созданного тобой предмета определяется твоим Уровнем Печати,\r\n                    так что всегда печатай сначала плохие, поскольку стоят они меньше и полезны для увеличения твоего Уровня Печати",
+ 	 	 	 	"trans": "кэш ${typeName} содержит информацию, необходимую для молекулярной 3D печати данного предмета, \r\n                    Ты можешь создать ${typeName} с помощью [Молекулярного 3D Принтера] в Центре города.\r\n                    \r\n                    Совет: Уровень созданного тобой предмета определяется твоим Уровнем Печати,\r\n                    так что всегда печатай сначала плохие, поскольку стоят они меньше и полезны для увеличения твоего Уровня Печати",
  	 	 	 	"eng": "A ${typeName} cache contains information used for Molecular 3D Printing, \r\n                    You can create a ${typeName} with the [Molecular 3d Printer] at [Central Hub].\r\n                    \r\n                    Pro tip: The level of item you get from printing is determined by your Printing Rank,\r\n                    so always print the trash ones first, as they cost less and useful to level up your Printing Rank"
  	 	 	}
  	 	},
@@ -739,7 +739,7 @@
  	 	},
  	 	"healing1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Обезболивающее",
+ 	 	 	 	"trans": "Обезболивающее Pain Away™",
  	 	 	 	"eng": "Pain Away"
  	 	 	},
  	 	 	"description": {
@@ -783,7 +783,7 @@
  	 	 	 	"eng": "Military Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Инъекционные нано-машины, которые являются обычным оснащением для военных. Они способны залечивать раны во время боевых действий.",
+ 	 	 	 	"trans": "Инъекционные нано-машины, которые являются обычным оснащением для военных. Они способны залечивать раны во время боя.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They are capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -793,7 +793,7 @@
  	 	 	 	"eng": "Advanced Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Инъекционные нано-машины, которые являются обычным оснащением для военных. Они способны залечивать раны во время боевых действий.",
+ 	 	 	 	"trans": "Инъекционные нано-машины, которые являются обычным оснащением для военных. Они способны залечивать раны во время боя.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -803,7 +803,7 @@
  	 	 	 	"eng": "High Quality Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Инъекционные нано-машины, которые являются обычным оснащением для военных. Они способны залечивать раны во время боевых действий.",
+ 	 	 	 	"trans": "Инъекционные нано-машины, которые являются обычным оснащением для военных. Они способны залечивать раны во время боя.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
@@ -813,13 +813,13 @@
  	 	 	 	"eng": "Rare Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Инъекционные нано-машины, которые являются обычным оснащением для военных. Они способны залечивать раны во время боевых действий.",
+ 	 	 	 	"trans": "Инъекционные нано-машины, которые являются обычным оснащением для военных. Они способны залечивать раны во время боя.",
  	 	 	 	"eng": "Injectable nano machines that are standard issue for military use. They're capable of patching injuries while in combat."
  	 	 	}
  	 	},
  	 	"healingArea1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Обезболивающий спрей",
+ 	 	 	 	"trans": "Обезболивающий спрей Pain Away™",
  	 	 	 	"eng": "Pain Away Spray"
  	 	 	},
  	 	 	"description": {
@@ -913,7 +913,7 @@
  	 	 	 	"eng": "Experience Memory"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Жесткий диск, хранящий чьи-то воспоминания. При использовании будет получен опыт",
+ 	 	 	 	"trans": "Жесткий диск, хранящий чью-то память. При использовании будет получен опыт",
  	 	 	 	"eng": "Memory bank contains someone's memory. If used you may gain experience from this"
  	 	 	}
  	 	},
@@ -953,7 +953,7 @@
  	 	 	 	"eng": "Frontal Cortex Optimization Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Транслирует коды взлома всем кибернетически подлкюченным пользователям,  улучшая интеграцию их лобной коры с установленными кибер-программами, тем самым увеличивая объем памяти пользователя.\r\n\r\n        При использовании дает глобальное ускорение всем игрокам онлайн, увеличивая получаемый опыт на 180% в течение 20 минут\r\n        ",
+ 	 	 	 	"trans": "Транслирует коды взлома всем кибернетически подлкюченным пользователям,  улучшая интеграцию их кибер-программ в лобную кору, тем самым увеличивая объем памяти пользователя.\r\n\r\n        При использовании дает глобальное ускорение всем игрокам онлайн, увеличивая получаемый опыт на 180% в течение 20 минут\r\n        ",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, enhancing their Frontal Cortex integration with cyberwares installed, thus increasing memory capability of the user.\r\n\r\n        When used, gives Global Buff to all players online, increase EXP gained to 180% for 20 minutes\r\n        "
  	 	 	}
  	 	},
@@ -963,7 +963,7 @@
  	 	 	 	"eng": "Transaction Exploit Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Транслирует коды взлома всем кибернетически связанным пользователям, временно улучшая их алгоритм транзакций, позволяя пользователю получать дополнительные  ${currencyName}.\r\n\r\n        При использовании дает глобальное ускорение всем игрокам онлайн, увеличивая количество получаемых биткойнов на 40% в течение 20 минут (эффект складывается)\r\n        ",
+ 	 	 	 	"trans": "Транслирует коды взлома всем кибернетически связанным пользователям, временно улучшая алгоритмы их транзакций, позволяя пользователю получать дополнительные  ${currencyName}.\r\n\r\n        При использовании дает глобальное ускорение всем игрокам онлайн, увеличивая количество получаемых биткойнов на 40% в течение 20 минут (эффект складывается)\r\n        ",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, argument their transaction algorithm temporary, allowing user to receive bonus  ${currencyName}.\r\n\r\n        When used, gives Global Buff to all players online, increase BitCoin gained by 40% for 20 minutes (stackable)\r\n        ",
  	 	 	 	"vars": [
  	 	 	 	 	"currencyName"
@@ -976,7 +976,7 @@
  	 	 	 	"eng": "AI Core"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Свободно продаваемый Блок Нейронной Обработки (БНО). Поставляется с ИИ общего назначения. \r\n        Используй для запуска автоматического фарма в подземелье.",
+ 	 	 	 	"trans": "Свободно продаваемый Блок Нейронной Обработки (БНО). Поставляется с ИИ общего назначения. \r\n        можно использовать для запуска фарм бота в подземелье.",
  	 	 	 	"eng": "Commercially used Neural Processing Unit (NPU). Comes with general purpose AI. \r\n        You can use this to deploy a farming bot to dungeon for you."
  	 	 	}
  	 	},
@@ -996,7 +996,7 @@
  	 	 	 	"eng": "Anti Matter Charge"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Высокотехнологичный, миниатюрный одноразовый генератор антиматерии. \r\n        Он вырабатывает огромное количество энергии. Может быть использован как боеприпас для уничт. оружия. ",
+ 	 	 	 	"trans": "Высокотехнологичный, миниатюрный одноразовый генератор на антиматерии. \r\n        Он вырабатывает огромное количество энергии. Может быть использован как боеприпас для уничт. оружия. ",
  	 	 	 	"eng": "High-tech, miniaturized, one-time use, antimatter energy generator. \r\n        This item produces enormous amounts of power. You can use this as ammunition for your destructive weapon. "
  	 	 	}
  	 	},
@@ -1022,11 +1022,11 @@
  	 	},
  	 	"techScrap": {
  	 	 	"name": {
- 	 	 	 	"trans": "Металлолом",
+ 	 	 	 	"trans": "обломки техники",
  	 	 	 	"eng": "Tech Scrap"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Тех. металлолом, оставшийся от демонтированного оборудования, разбери его для получения опыта печатания. \r\n        Разобрать металлолом можно в Деловом Районе.",
+ 	 	 	 	"trans": "Тех. обломки, оставшиеся от демонтированного оборудования, разбери их для получения опыта печатания. \r\n        Разобрать Тех. обломки можно в Деловом Районе.",
  	 	 	 	"eng": "Technology scrap from disassembled equipment, this can be reverse engineered to gain printing xp. \r\n        You can perform reverse engineering in the Job Hub."
  	 	 	}
  	 	},
@@ -1054,7 +1054,7 @@
  	 	 	 	"eng": "locked container"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Укрепленный контейнер с биометрическим шифром, содержащий полезные предметы.\r\n        К счастью, прошивка платы микрокомпьютера устарела и его можно взломать, найди [Терминал], чтобы открыть этот контейнер",
+ 	 	 	 	"trans": "Укрепленный контейнер с биометрическим замком, содержащий полезные предметы.\r\n        К счастью, прошивка платы микрокомпьютера устарела и его можно взломать, открой [Терминал], чтобы вскрыть этот контейнер",
  	 	 	 	"eng": "A reinforced container with biometric encryption lock, it seems to contain important items inside.\r\n        Luckily the on board micro computer is running on out-dated firmware, where an exploit is possible, go to [Terminal] to unlock this container"
  	 	 	}
  	 	},
@@ -1064,7 +1064,7 @@
  	 	 	 	"eng": "locked rare container"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Укрепленный контейнер с биометрическим шифром, содержащий полезные предметы.\r\n        К счастью, прошивка платы микрокомпьютера устарела и его можно взломать, найди [Терминал], чтобы открыть этот контейнер",
+ 	 	 	 	"trans": "Укрепленный контейнер с биометрическим замком, содержащий полезные предметы.\r\n        К счастью, прошивка платы микрокомпьютера устарела и его можно взломать, открой [Терминал], чтобы вскрыть этот контейнер",
  	 	 	 	"eng": "A reinforced container with biometric encryption lock, it seems to contain important items inside.\r\n        Luckily the on board micro computer is running on out-dated firmware, where an exploit is possible, go to [Terminal] to unlock this container"
  	 	 	}
  	 	},
@@ -1074,7 +1074,7 @@
  	 	 	 	"eng": "locked legendary container"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Укрепленный контейнер с биометрическим шифром, содержащий полезные предметы.\r\n        К счастью, прошивка платы микрокомпьютера устарела и его можно взломать, найди [Терминал], чтобы открыть этот контейнер",
+ 	 	 	 	"trans": "Укрепленный контейнер с биометрическим шифром, содержащий полезные предметы.\r\n        К счастью, прошивка платы микрокомпьютера устарела и его можно взломать, открой [Терминал], чтобы вскрыть этот контейнер",
  	 	 	 	"eng": "A reinforced container with biometric encryption lock, it seems to contain important items inside.\r\n        Luckily the on board micro computer is running on out-dated firmware, where an exploit is possible, go to [Terminal] to unlock this container"
  	 	 	}
  	 	},
@@ -1094,7 +1094,7 @@
  	 	 	 	"eng": "Supply Crate [Gang]"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Содержит ресурсы, необходимые банде для поддержания работоспособности,\r\n        Нажми использовать, чтобы отправить его в штаб-квартиру банды",
+ 	 	 	 	"trans": "Содержит предметы и ресурсы, необходимые банде для поддержания работоспособности,\r\n        Нажми использовать, чтобы отправить его в штаб-квартиру банды",
  	 	 	 	"eng": "Contains misc items and resources for a gang to stay functional,\r\n        Click use to send it to your gang headquarters"
  	 	 	}
  	 	},
@@ -1104,7 +1104,7 @@
  	 	 	 	"eng": "encrypted gang memory shard"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Фрагмент памяти, содержащий в себе зашифрованные секреты банды, \r\n        расшифруй в штаб-квартире банды, чтобы получить полезную информацию (требуется быть в банде)",
+ 	 	 	 	"trans": "Фрагмент памяти, содержащий в себе зашифрованные секреты банды, \r\n        расшифруй в штаб-квартире банды, чтобы получить полезную информацию (необходимо быть в банде)",
  	 	 	 	"eng": "A memory shard contains encrypted gang secrets, \r\n        decrypt this in your gang headquarters to gain useful intel (requires to be in a gang)"
  	 	 	}
  	 	},
@@ -1124,7 +1124,7 @@
  	 	 	 	"eng": "Calibration AI Shard (5%)"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Содержит фрагменты продвинутого ИИ, спроектированного для помощи с улучшением экипировки.\r\n        При использовании уменьшает шанс поломки на 5% (суммируется) на 5 минут.",
+ 	 	 	 	"trans": "Содержит фрагменты продвинутого ИИ, спроектированного для помощи в улучшении экипировки.\r\n        При использовании уменьшает шанс поломки на 5% (суммируется) на 5 минут.",
  	 	 	 	"eng": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 5% (stackable) for 5 minutes."
  	 	 	}
  	 	},
@@ -1134,7 +1134,7 @@
  	 	 	 	"eng": "Calibration AI Shard (10%)"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Содержит фрагменты продвинутого ИИ, спроектированного для помощи с улучшением экипировки.\r\n        При использовании уменьшает шанс поломки на 10% (суммируется) на 5 минут.",
+ 	 	 	 	"trans": "Содержит фрагменты продвинутого ИИ, спроектированного для помощи в улучшении экипировки.\r\n        При использовании уменьшает шанс поломки на 10% (суммируется) на 5 минут.",
  	 	 	 	"eng": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 10% (stackable) for 5 minutes."
  	 	 	}
  	 	},
@@ -1144,7 +1144,7 @@
  	 	 	 	"eng": "Calibration AI Shard (50%)"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Содержит фрагменты продвинутого ИИ, спроектированного для помощи с улучшением экипировки.\r\n        При использовании уменьшает шанс поломки на 50% (суммируется) на 5 минут. Этот эффект распространится на всех игроков онлайн",
+ 	 	 	 	"trans": "Содержит фрагменты продвинутого ИИ, спроектированного для помощи в улучшении экипировки.\r\n        При использовании уменьшает шанс поломки на 50% (суммируется) на 5 минут. Этот эффект распространится на всех игроков онлайн",
  	 	 	 	"eng": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 50% (stackable) for 5 minutes. This effect will apply to all players online"
  	 	 	}
  	 	},
@@ -1154,7 +1154,7 @@
  	 	 	 	"eng": "Calibration AI Shard (100%)"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Содержит фрагменты продвинутого ИИ, спроектированного для помощи с улучшением экипировки.\r\n        При использовании уменьшает шанс поломки на 100% (суммируется) на 5 минут. Этот эффект распространится на всех игроков онлайн",
+ 	 	 	 	"trans": "Содержит фрагменты продвинутого ИИ, спроектированного для помощи в улучшении экипировки.\r\n        При использовании уменьшает шанс поломки на 100% (суммируется) на 5 минут. Этот эффект распространится на всех игроков онлайн",
  	 	 	 	"eng": "Contains fragments of advance AI designed to assist with upgrading equipments.\r\n        When used, decreases the chance of destructive failure by 100% (stackable) for 5 minutes. This effect will apply to all players online"
  	 	 	}
  	 	},
@@ -1164,7 +1164,7 @@
  	 	 	 	"eng": "Calibration Safety Nano Bots"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Эксперементальные нано-машины разработанные для снижения и нейтрализации разрушительного эффекта при неудачной калибровке, \r\n        после активации все калибровачные провалы не будут уничтожать предметы 5 минут",
+ 	 	 	 	"trans": "Эксперементальные нано-машины разработанные для снижения и нейтрализации разрушительного эффекта при неудачной калибровке, \r\n        после активации все калибровачные провалы не будут уничтожать предметы в течении 5 минут",
  	 	 	 	"eng": "Experimental nano machines designed to reduces and negate the destructive effect when failing calibration, \r\n        when this is activated, all calibration fails will not destroy the item for 5 minutes (Applies to all players)"
  	 	 	}
  	 	},
@@ -1174,7 +1174,7 @@
  	 	 	 	"eng": "Old Pouch"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Забытая древняя сумка, \r\n       сбоку у нее нарисована странная мультяшная лягушка с большим ртом и красными губами,\r\n        значение древнего зловещего рисунка неизвестно, но она удобная для хранения небольших объектов внутри.\r\n        увеличивает место в инвентаре когда надета.",
+ 	 	 	 	"trans": "Забытая древняя сумка, \r\n       сбоку у нее нарисована странная мультяшная лягушка с большим ртом и красными губами,\r\n        значение древнего зловещего рисунка неизвестно, но она удобная для хранения небольших объектов.\r\n        увеличивает место в инвентаре когда надета.",
  	 	 	 	"eng": "A forgotten ancient pouch, \r\n        there is a weird cartoon frog with big mouth and red lips drawing at the side of it,\r\n        the meaning of the ancient ominous drawing is unknown, but it is handy for keep some small object in it.\r\n        increase inventory space when equipped."
  	 	 	}
  	 	},
@@ -1220,21 +1220,21 @@
  	 	},
  	 	"healing9": {
  	 	 	"name": {
- 	 	 	 	"trans": "Легендарный лечащий нанобот",
+ 	 	 	 	"trans": "Легендарный медицинский нанобот",
  	 	 	 	"eng": "Legendary Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Инъекционные нано-машины, предназначенные для применения в армии, способные исцелять раны в боевой обстановке",
+ 	 	 	 	"trans": "Инъекционные нано-машины, предназначенные для применения в армии, способные исцелять раны в бою",
  	 	 	 	"eng": "injectable nano machines that is for advance military use, capable of patching injury in combat situation"
  	 	 	}
  	 	},
  	 	"healing10": {
  	 	 	"name": {
- 	 	 	 	"trans": "Эпический лечащий нанобот",
+ 	 	 	 	"trans": "Эпический медицинский нанобот",
  	 	 	 	"eng": "Epic Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Инъекционные нано-машины, предназначенные для применения в армии, способные исцелять раны в боевой обстановке",
+ 	 	 	 	"trans": "Инъекционные нано-машины, предназначенные для применения в армии, способные исцелять раны в бою",
  	 	 	 	"eng": "injectable nano machines that is for advance military use, capable of patching injury in combat situation"
  	 	 	}
  	 	},
@@ -1244,7 +1244,7 @@
  	 	 	 	"eng": "Legendary Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Способен посылать тысячи продвинутых нано-машин для исцеления близлежащих игроков",
+ 	 	 	 	"trans": "Способен посылать тысячи продвинутых нано-машин для исцеления ближайших игроков",
  	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
@@ -1254,7 +1254,7 @@
  	 	 	 	"eng": "Epic Nano medic drone"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Способен посылать тысячи продвинутых нано-машин для исцеления близлежащих игроков",
+ 	 	 	 	"trans": "Способен посылать тысячи продвинутых нано-машин для исцеления ближайших игроков",
  	 	 	 	"eng": "capable of dispatching thousands of advanced nano machines to heal nearby players"
  	 	 	}
  	 	},
